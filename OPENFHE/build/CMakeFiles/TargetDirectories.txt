@@ -1,0 +1,7 @@
+/Users/aleyshasierra/repos/openfhe-python/build/CMakeFiles/openfhe.dir
+/Users/aleyshasierra/repos/openfhe-python/build/CMakeFiles/edit_cache.dir
+/Users/aleyshasierra/repos/openfhe-python/build/CMakeFiles/rebuild_cache.dir
+/Users/aleyshasierra/repos/openfhe-python/build/CMakeFiles/list_install_components.dir
+/Users/aleyshasierra/repos/openfhe-python/build/CMakeFiles/install.dir
+/Users/aleyshasierra/repos/openfhe-python/build/CMakeFiles/install/local.dir
+/Users/aleyshasierra/repos/openfhe-python/build/CMakeFiles/install/strip.dir
