@@ -35,6 +35,8 @@ Many FHE schemes are built on lattice-based cryptography. Lattices in cryptograp
 
 A challenge in HE is managing the "noise" introduced during encryption, which can grow during computations and eventually lead to decryption errors. FHE schemes, such as Gentry's original construction, use a technique called "bootstrapping" to periodically reduce this noise, allowing for an unlimited number of computations.
 
+We also use BFG to get rid of outliers and prep data instead of having to read the data to manually prep it 
+
 ## Using the Open FHE Python Wrapper
 
 This section introduces how to use an open-source FHE Python wrapper, providing a simple interface for performing homomorphic operations.
