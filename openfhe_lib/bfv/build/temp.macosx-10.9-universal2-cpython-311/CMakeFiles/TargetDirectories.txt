@@ -1,7 +1,0 @@
-/Users/aleyshasierra/repos/openfhe-python/build/temp.macosx-10.9-universal2-cpython-311/CMakeFiles/openfhe.dir
-/Users/aleyshasierra/repos/openfhe-python/build/temp.macosx-10.9-universal2-cpython-311/CMakeFiles/edit_cache.dir
-/Users/aleyshasierra/repos/openfhe-python/build/temp.macosx-10.9-universal2-cpython-311/CMakeFiles/rebuild_cache.dir
-/Users/aleyshasierra/repos/openfhe-python/build/temp.macosx-10.9-universal2-cpython-311/CMakeFiles/list_install_components.dir
-/Users/aleyshasierra/repos/openfhe-python/build/temp.macosx-10.9-universal2-cpython-311/CMakeFiles/install.dir
-/Users/aleyshasierra/repos/openfhe-python/build/temp.macosx-10.9-universal2-cpython-311/CMakeFiles/install/local.dir
-/Users/aleyshasierra/repos/openfhe-python/build/temp.macosx-10.9-universal2-cpython-311/CMakeFiles/install/strip.dir
