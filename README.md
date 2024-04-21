@@ -46,26 +46,3 @@ This section introduces how to use an open-source FHE Python wrapper, providing 
 ```bash
 pip install open-fhe-python
 ```
-
-### Basic Usage
-
-```python
-from open_fhe import encrypt, decrypt, add, multiply
-
-# Initialize your public and private keys
-public_key, private_key = generate_keys()
-
-# Encrypt two numbers
-ciphertext1 = encrypt(public_key, 123)
-ciphertext2 = encrypt(public_key, 456)
-
-# Perform homomorphic operations
-encrypted_sum = add(ciphertext1, ciphertext2)
-encrypted_product = multiply(ciphertext1, ciphertext2)
-
-# Decrypt the results
-sum_result = decrypt(private_key, encrypted_sum)
-product_result = decrypt(private_key, encrypted_product)
-
-print(f"Sum: {sum_result}, Product: {product_result}")
-```
